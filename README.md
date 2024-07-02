@@ -12,7 +12,12 @@ The main network is the smaller implementation with 15 layers, but it is prepare
 
 # TO-DO
 - [X] Implement mResNet and test for binary classification.
+- [ ] Add Dockerfile
 - [ ] Finish README.md
 - [ ] Share training and testing notebooks
 - [ ] Add requirements.txt
 - [ ] Run tests comparing to MobileNet
+
+# Citation
+
+For citation purposes, please refer to this repository.
